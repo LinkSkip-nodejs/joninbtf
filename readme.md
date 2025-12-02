@@ -1,21 +1,24 @@
-This project is licensed under the Mozilla Public License 2.0 (MPL 2.0).
-
-You can obtain a copy of the license at: https://mozilla.org/MPL/2.0/
 # Joninbtf Landing Page
 
+**License:** [Mozilla Public License 2.0 (MPL 2.0)](https://mozilla.org/MPL/2.0/)
+
 A responsive, one-page HTML landing page for a Roblox content creator.  
-Built in one file using HTML, CSS, and JavaScript.
+This project is built in a single file using HTML, CSS, and JavaScript.
 
 ## Features
-- About section with images and links
-- Feature cards with scroll animation
-- Latest YouTube video embed (via YouTube API)
-- Contact section with social links
-- Fully responsive design with mobile-friendly nav
+- About section with images and external links
+- Feature cards with smooth scroll animations
+- Latest YouTube video embed via YouTube API
+- Contact section with social media links
+- Fully responsive design with mobile-friendly navigation
 
-## Demo
+## Live Demo
+[https://joninbtf.netlify.app](https://joninbtf.netlify.app)
 
-Live demo: [https://joninbtf.netlify.app](https://joninbtf.netlify.app)
-MADE BY LINK DISCORD USER IS linky_dabest DO NOT REMOVE CREDITS IF YOU WISH TO CONTACT ME   IF THERE IS ANY PROBLEMS CONTACT ME 
-You may use, modify, and distribute this code under the terms of this license.
-All modifications must retain this notice, including credits in the HTML file.
+## Credits
+Built by **Link** (Discord: `linky_dabest`)  
+**Do not remove credits.** For any issues, questions, or support, contact me directly on Discord.
+
+## License Notes
+You may use, modify, and distribute this code under the terms of the MPL 2.0 license.  
+All modifications must retain this notice, including the credits in the HTML file.
