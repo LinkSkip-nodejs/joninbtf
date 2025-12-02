@@ -13,7 +13,7 @@ This project is built in a single file using HTML, CSS, and JavaScript.
 - Fully responsive design with mobile-friendly navigation
 
 ## Live Demo
-[https://joninbtf01.netlify.app](https://joninbtf.netlify.app)
+[Click me to open the demo ](https://joninbtf01.netlify.app)
 
 ## Credits
 Built by **Link** (Discord: `linky_dabest`)  
