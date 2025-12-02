@@ -17,3 +17,5 @@ Built in one file using HTML, CSS, and JavaScript.
 
 Live demo: [https://joninbtf.netlify.app](https://joninbtf.netlify.app)
 MADE BY LINK DISCORD USER IS linky_dabest DO NOT REMOVE CREDITS IF YOU WISH TO CONTACT ME   IF THERE IS ANY PROBLEMS CONTACT ME 
+You may use, modify, and distribute this code under the terms of this license.
+All modifications must retain this notice, including credits in the HTML file.
